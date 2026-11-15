@@ -1,0 +1,4 @@
+interface:
+  display_name: "城市光亮节奏蒙版"
+  short_description: "用独立蒙版把规则城市图像按节拍逐个、成组或整幅点亮"
+  default_prompt: "使用 $urban-rhythm-mask 把这组城市素材做成逐拍点亮的蒙版卡点视频，并保留可改节拍和独立蒙版。"
